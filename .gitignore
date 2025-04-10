@@ -41,6 +41,7 @@ coverage
 .idea/
 .vscode/
 .venv/
+venv/
 **/__pycache__/
 *.swp
 *.swo
@@ -106,3 +107,4 @@ dist/
 milvus_db/
 snomed_db/
 *CONCEPT*.csv
+.python-version
